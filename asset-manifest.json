@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ShoaibAshiq.github.io/robo/static/css/main.709e37db.chunk.css",
+    "main.js": "/ShoaibAshiq.github.io/robo/static/js/main.41a397e7.chunk.js",
+    "main.js.map": "/ShoaibAshiq.github.io/robo/static/js/main.41a397e7.chunk.js.map",
+    "runtime-main.js": "/ShoaibAshiq.github.io/robo/static/js/runtime-main.67f5e8fb.js",
+    "runtime-main.js.map": "/ShoaibAshiq.github.io/robo/static/js/runtime-main.67f5e8fb.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/ShoaibAshiq.github.io/robo/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.04abe847.chunk.js": "/ShoaibAshiq.github.io/robo/static/js/2.04abe847.chunk.js",
+    "static/js/2.04abe847.chunk.js.map": "/ShoaibAshiq.github.io/robo/static/js/2.04abe847.chunk.js.map",
+    "static/js/3.9b6a0866.chunk.js": "/ShoaibAshiq.github.io/robo/static/js/3.9b6a0866.chunk.js",
+    "static/js/3.9b6a0866.chunk.js.map": "/ShoaibAshiq.github.io/robo/static/js/3.9b6a0866.chunk.js.map",
+    "index.html": "/ShoaibAshiq.github.io/robo/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/ShoaibAshiq.github.io/robo/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.709e37db.chunk.css.map": "/ShoaibAshiq.github.io/robo/static/css/main.709e37db.chunk.css.map",
+    "static/js/2.04abe847.chunk.js.LICENSE.txt": "/ShoaibAshiq.github.io/robo/static/js/2.04abe847.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f5e8fb.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.04abe847.chunk.js",
+    "static/css/main.709e37db.chunk.css",
+    "static/js/main.41a397e7.chunk.js"
+  ]
+}
